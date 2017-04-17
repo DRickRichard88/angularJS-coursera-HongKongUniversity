@@ -1,0 +1,22 @@
+
+
+/********************************************************************************/
+/********************************** WEEK 3 **************************************/
+
+/******** Angular Factory, Service and Dependency Injection
+
+Continue further code refactoring by separating the controllers & services in new files,
+injecting the services to the controllers and then implement the controllers to the app.js file.
+
+/******** Angular Templates
+
+- Directives (ng-model, ng-show, etc.)
+- Markups: {{ expression }}
+- Filters ()
+- Form controls ()
+
+EVERYTHING TAKES PLACE IN THE index.html file.
+
+
+/********************************** WEEK 3 **************************************/
+/********************************************************************************/
